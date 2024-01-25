@@ -1,1 +1,3 @@
 # snowflake-assignment
+
+Ņikita Hramčenko
